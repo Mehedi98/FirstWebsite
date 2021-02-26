@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 50px;
+}
+
+.orange_highlights{
+    color: orangered;
+}
+
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    padding-left: 2%;
+    overflow: hidden;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.top-banner{
+    background-image: url("images/3\ \(2\).png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+}
